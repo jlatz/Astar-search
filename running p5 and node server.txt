@@ -1,0 +1,6 @@
+run p5: npm install p5-manager -g
+run new p5 project: p5 generage -b {filename}
+
+run new server using node: 
+1. npm install -g http-server
+2. http-server
